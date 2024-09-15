@@ -7,7 +7,7 @@
 - **Objective**: Analyze Venmo transaction data to uncover spending behaviors, social network metrics, and predictive features.
 - **Scope**: Utilize Spark for data processing, Python/R for visualization, and explore advanced techniques like GNN.
 
-### **Text Analytics (20 points)**
+### **Text Analytics **
 1. **Dictionary Expansion**:
    - **Task**: Identify and add 10 new words to the existing text dictionary that are not already included.
    - **Method**: Open the Venmo app, examine transactions, and ensure no duplicates before adding.
